@@ -6,8 +6,8 @@
  * TypeScript error — that is intentional, it keeps the two languages in sync.
  */
 
-/** Used for canonical URLs, sitemap and Open Graph. Set this once you deploy. */
-export const siteUrl = "https://your-domain.vercel.app";
+/** Used for canonical URLs, sitemap and Open Graph. Change it if you add a custom domain. */
+export const siteUrl = "https://portfolio-website-sigma-gules-98.vercel.app";
 
 export const email = "you@example.com";
 
